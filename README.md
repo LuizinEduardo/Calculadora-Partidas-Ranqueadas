@@ -2,9 +2,9 @@
 
 ## Desafio Calculadora de Partidas Rankeadas.
 
-Este desafio trata-se de criar uma função que recebe dois parametros Vitórias e Derrotas, para calcular Saldo do Heroi, uma subtracao dos parametros Vitória  Derrota.
+Este desafio trata-se de criar uma função que recebe dois parametros Vitórias e Derrotas, para calcular Saldo do Heroi, uma subtracao dos parametros Vitória e Derrota.
 
-Foi criado também uma função para identificar qual o nivel do Heroi, dependendo do resultado do calculo do Saldo do Heroi, criando uma simulação de jogo usando um for.
+Foi criado também uma função para identificar qual o nivel do Heroi, dependendo do resultado do calculo do Saldo do Heroi, criando uma simulação de jogo usando um comando ***for***.
 
 Este desafio envolveu 
 * Operadores Relacionais
